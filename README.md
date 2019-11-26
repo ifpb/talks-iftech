@@ -2,6 +2,8 @@
 
 ## [2019](http://even3.com.br/iftech19/)
 
+- [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
+
 ## [2018](http://even3.com.br/iftech2018/)
 
 - [My kid Api com Django](https://rencesar.github.io/create-api-django-rest/) ([Renato César](https://www.linkedin.com/in/renatocesarlira/))
