@@ -3,6 +3,7 @@
 ## [2019](http://even3.com.br/iftech19/)
 
 - [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
+- [Snake com Python e Pygame](https://github.com/AlvesItalo/snake) ([Ítalo Alves](https://www.linkedin.com/in/%C3%ADtalo-a-alves-9b654b193/))
 
 ## [2018](http://even3.com.br/iftech2018/)
 
