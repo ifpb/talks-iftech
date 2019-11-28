@@ -7,6 +7,7 @@
 - [Git e Github para Iniciantes](https://github.com/felipersdf/Git-e-Github---IFTech-2019) ([Felipe Rodrigues](https://www.linkedin.com/in/felipersdf/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Renatha Victor](https://www.linkedin.com/in/renathavictor/))
 - [Snake com Python e Pygame](https://github.com/AlvesItalo/snake) ([Ítalo Alves](https://www.linkedin.com/in/%C3%ADtalo-a-alves-9b654b193/))
 - [Redes Neurais: from zero to hero](https://github.com/W-santos/Notebooks/blob/master/Workshop_Redes_Neurais.ipynb) ([Weslley Santos](https://www.linkedin.com/in/weslley-cunha-santos), [Mariana Barros](https://www.linkedin.com/in/mariana-barros-da-nobrega))
+- [Automação de teste em dispositivos móveis](https://github.com/maluqueiroz/minicurso-testes)([Kamila Porto](https://www.linkedin.com/in/kmlporto)[Maria Luísa Queiroz](https://www.linkedin.com/in/maria-lu%C3%ADsa-queiroz-de-brito-4b6424114/))
 
 ## [2018](http://even3.com.br/iftech2018/)
 
