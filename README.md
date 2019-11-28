@@ -3,6 +3,10 @@
 ## [2019](http://even3.com.br/iftech19/)
 
 - [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
+- [Fundamentos de Testes em Java](https://github.com/neilprado/Iftech-Fundamentos-Teste-Java/) ([Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/), [Samuel Cabral](https://www.linkedin.com/in/samuel-deschamps-cabral-11a042114/))
+- [Git e Github para Iniciantes](https://github.com/felipersdf/Git-e-Github---IFTech-2019) ([Felipe Rodrigues](https://www.linkedin.com/in/felipersdf/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Renatha Victor](https://www.linkedin.com/in/renathavictor/))
+- [Snake com Python e Pygame](https://github.com/AlvesItalo/snake) ([Ítalo Alves](https://www.linkedin.com/in/%C3%ADtalo-a-alves-9b654b193/))
+- [Redes Neurais: from zero to hero](https://github.com/W-santos/Notebooks/blob/master/Workshop_Redes_Neurais.ipynb) ([Weslley Santos](https://www.linkedin.com/in/weslley-cunha-santos), [Mariana Barros](https://www.linkedin.com/in/mariana-barros-da-nobrega))
 
 ## [2018](http://even3.com.br/iftech2018/)
 
