@@ -2,6 +2,7 @@
 
 ## [2019](http://even3.com.br/iftech19/)
 
+- [Automação de teste em dispositivos móveis](https://github.com/maluqueiroz/minicurso-testes) ([Kamila Porto](https://www.linkedin.com/in/kmlporto), [Maria Luísa Queiroz](https://www.linkedin.com/in/maria-lu%C3%ADsa-queiroz-de-brito-4b6424114/))
 - [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
 - [Fundamentos de Testes em Java](https://github.com/neilprado/Iftech-Fundamentos-Teste-Java/) ([Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/), [Samuel Cabral](https://www.linkedin.com/in/samuel-deschamps-cabral-11a042114/))
 - [Introdução ao pentest em aplicações web](https://github.com/paulojrb/capture) ([Paulo Roberto](https://www.linkedin.com/in/paulo-roberto-66974a183/))
