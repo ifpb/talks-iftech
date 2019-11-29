@@ -2,7 +2,7 @@
 
 ## [2019](http://even3.com.br/iftech19/)
 
-- [O Ronco do V8](https://github.com/elileal/ifTech2019_TheV8Snore) ([Eliabe Leal](www.linkedin.com/in/eliabeleal), [Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/))
+- [O Ronco do V8](https://github.com/elileal/ifTech2019_TheV8Snore) ([Eliabe Leal](https://www.linkedin.com/in/eliabeleal), [Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/))
 - [Automação de teste em dispositivos móveis](https://github.com/maluqueiroz/minicurso-testes) ([Kamila Porto](https://www.linkedin.com/in/kmlporto), [Maria Luísa Queiroz](https://www.linkedin.com/in/maria-lu%C3%ADsa-queiroz-de-brito-4b6424114/))
 - [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
 - [Fundamentos de Testes em Java](https://github.com/neilprado/Iftech-Fundamentos-Teste-Java/) ([Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/), [Samuel Cabral](https://www.linkedin.com/in/samuel-deschamps-cabral-11a042114/))
