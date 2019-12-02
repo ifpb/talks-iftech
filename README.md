@@ -7,7 +7,7 @@
 - CI/CD utilizando GitLab CI e Ansible ([Edson Vieira](https://www.linkedin.com/in/edson-luis-vieira-de-almeida-114303121/))
 - [Conhecendo o Universo Linux](https://github.com/andrewpotterdr/ConhecendoOUniversoLinux) ([Camila Jácome](https://www.linkedin.com/in/camilla-jácome-45818313b), [Michael Monteiro](https://www.linkedin.com/in/michael-almeida-da-franca-monteiro-822400143/))
 - Criando uma Aplicação Web com Python e Django ([Carlos Manuel](https://www.linkedin.com/in/carlos-manoel-34b83a176/), [Jorge Ricardo](https://www.linkedin.com/in/jorge-ricardo-soares-4031aa15a/))
-- Desenvolvendo Mobile com React Native ([Paulo Henrique](https://www.linkedin.com/in/pahferreira/), [Rafael Lins](https://www.linkedin.com/in/rafael-lins-souza/))
+- [Desenvolvendo Mobile com React Native](https://github.com/pahferreira/react-native-iftech) ([Paulo Henrique](https://www.linkedin.com/in/pahferreira/), [Rafael Lins](https://www.linkedin.com/in/rafael-lins-souza/))
 - Docker: a plataforma que os desenvolvedores amam ([Eliabe Leal](https://www.linkedin.com/in/eliabeleal), [Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [Luiz Henrique](https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/))
 - [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
 - [Fundamentos de Testes em Java](https://github.com/neilprado/Iftech-Fundamentos-Teste-Java/) ([Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/), [Samuel Cabral](https://www.linkedin.com/in/samuel-deschamps-cabral-11a042114/))
