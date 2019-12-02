@@ -4,7 +4,7 @@
 
 - [API RESTful Node.js + PostgreSQL](https://github.com/guigomes94/minicurso-node-postgres) ([Danilo Marques](https://www.linkedin.com/in/danilo-marques-de-oliveira-14b25b136/), [Guilherme Gomes](https://www.linkedin.com/in/guilherme-gomes-3a1a57185/))
 - [Automatizando Testes em Dispositivos Móveis](https://github.com/maluqueiroz/minicurso-testes) ([Kamila Porto](https://www.linkedin.com/in/kmlporto), [Maria Luísa Queiroz](https://www.linkedin.com/in/maria-lu%C3%ADsa-queiroz-de-brito-4b6424114/))
-- CI/CD utilizando GitLab CI e Ansible ([Edson Vieira](https://www.linkedin.com/in/edson-luis-vieira-de-almeida-114303121/))
+- [CI/CD utilizando GitLab CI e Ansible](https://github.com/EdsonLuisVieira/iftech19) ([Edson Vieira](https://www.linkedin.com/in/edson-luis-vieira-de-almeida-114303121/))
 - [Conhecendo o Universo Linux](https://github.com/andrewpotterdr/ConhecendoOUniversoLinux) ([Camila Jácome](https://www.linkedin.com/in/camilla-jácome-45818313b), [Michael Monteiro](https://www.linkedin.com/in/michael-almeida-da-franca-monteiro-822400143/))
 - Criando uma Aplicação Web com Python e Django ([Carlos Manuel](https://www.linkedin.com/in/carlos-manoel-34b83a176/), [Jorge Ricardo](https://www.linkedin.com/in/jorge-ricardo-soares-4031aa15a/))
 - [Desenvolvendo Mobile com React Native](https://github.com/pahferreira/react-native-iftech) ([Paulo Henrique](https://www.linkedin.com/in/pahferreira/), [Rafael Lins](https://www.linkedin.com/in/rafael-lins-souza/))
