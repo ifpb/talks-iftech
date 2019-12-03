@@ -13,7 +13,7 @@
 - [Fundamentos de Testes em Java](https://github.com/neilprado/Iftech-Fundamentos-Teste-Java/) ([Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/), [Samuel Cabral](https://www.linkedin.com/in/samuel-deschamps-cabral-11a042114/))
 - [Git e Github para Iniciantes](https://github.com/felipersdf/Git-e-Github---IFTech-2019) ([Felipe Rodrigues](https://www.linkedin.com/in/felipersdf/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Renatha Victor](https://www.linkedin.com/in/renathavictor/))
 - GoLang: de Gênios para Gênios ([Joerverson Santos](https://www.linkedin.com/in/joerverson-santos-6369aa134/), [Renato Lira](https://www.linkedin.com/in/renatocesarlira/))
-- Introdução ao Mikrotik / RouterOS ([Ronaldo Elias](https://www.linkedin.com/in/ronaldo-elias-10127b189/), [Wellysson Hugo](https://www.linkedin.com/in/hugo-oliveira-a05480158))
+- Introdução ao Mikrotik / RouterOS ([Ronaldo Elias](https://www.linkedin.com/in/ronaldo-elias-10127b189/), [Wellysson Hugo](https://www.linkedin.com/in/hugo-oliveira-a05480158))(https://github.com/rldofilho/Ronaldo-Filho)
 - [Introdução ao Pentest em Aplicações Web](https://github.com/paulojrb/capture) ([Paulo Roberto](https://www.linkedin.com/in/paulo-roberto-66974a183/))
 - [My First React App](talks/my-first-react-app/my-first-react-app.pdf) ([Ângela Oliveira](https://www.linkedin.com/in/angela-mr-oliveira/), [Romero Caetano](https://br.linkedin.com/in/romero-caetano))
 - [O Ronco do V8](https://github.com/elileal/ifTech2019_TheV8Snore) ([Eliabe Leal](https://www.linkedin.com/in/eliabeleal), [Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/))
@@ -29,3 +29,4 @@
 - [Git e Github](https://github.com/FabricioLiber/Git-e-Github) ([Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Kamila Porto](https://www.linkedin.com/in/kmlporto/))
 - [Kung Fu Pandas](https://github.com/elileal/kungfu_Pandas) ([Eliabe Leal](https://www.linkedin.com/in/eliabe-leal-9499a5162/), [Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/))
 - [My kid Api com Django](https://rencesar.github.io/create-api-django-rest/) ([Renato César](https://www.linkedin.com/in/renatocesarlira/))
+
