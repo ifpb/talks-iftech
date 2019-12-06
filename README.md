@@ -9,7 +9,7 @@
 - [Criando uma Aplicação Web com Python e Django](https://github.com/carlosnsilva/CRUD_Django) ([Carlos Manoel](https://www.linkedin.com/in/carlos-manoel-34b83a176/), [Jorge Ricardo](https://www.linkedin.com/in/jorge-ricardo-soares-4031aa15a/))
 
 - [Desenvolvendo Mobile com React Native](https://github.com/pahferreira/react-native-iftech) ([Paulo Henrique](https://www.linkedin.com/in/pahferreira/), [Rafael Lins](https://www.linkedin.com/in/rafael-lins-souza/))
-- Docker: a plataforma que os desenvolvedores amam ([Eliabe Leal](https://www.linkedin.com/in/eliabeleal), [Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [Luiz Henrique](https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/))
+- [Docker: a plataforma que os desenvolvedores amam](https://github.com/FabricioLiber/docker-iftech) ([Eliabe Leal](https://www.linkedin.com/in/eliabeleal), [Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [Luiz Henrique](https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/))
 - [Estratégias para Alta Disponibilidade](talks/alta-disponibilidade/alta-disponibilidade-conductor.pdf) ([Fidélis de Moura](https://www.linkedin.com/in/fidelismoura/))
 - [Fundamentos de Testes em Java](https://github.com/neilprado/Iftech-Fundamentos-Teste-Java/) ([Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/), [Samuel Cabral](https://www.linkedin.com/in/samuel-deschamps-cabral-11a042114/))
 - [Git e Github para Iniciantes](https://github.com/felipersdf/Git-e-Github---IFTech-2019) ([Felipe Rodrigues](https://www.linkedin.com/in/felipersdf/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Renatha Victor](https://www.linkedin.com/in/renathavictor/))
