@@ -18,7 +18,7 @@
 - [Introdução ao Pentest em Aplicações Web](https://github.com/paulojrb/capture) ([Paulo Roberto](https://www.linkedin.com/in/paulo-roberto-66974a183/))
 - [My First React App](talks/my-first-react-app/my-first-react-app.pdf) ([Ângela Oliveira](https://www.linkedin.com/in/angela-mr-oliveira/), [Romero Caetano](https://br.linkedin.com/in/romero-caetano))
 - [O Ronco do V8](https://github.com/elileal/ifTech2019_TheV8Snore) ([Eliabe Leal](https://www.linkedin.com/in/eliabeleal), [Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/))
-- Otimizando a vida no Linux com Shell Script ([Joerverson Santos](https://www.linkedin.com/in/joerverson-santos-6369aa134/))
+- [Otimizando a vida no Linux com Shell Script](https://github.com/Joeverson/otimizando-vida-linux-com-shell-script) ([Joerverson Santos](https://www.linkedin.com/in/joerverson-santos-6369aa134/))
 - [Redes Neurais: from zero to hero](https://github.com/W-santos/Notebooks/blob/master/Workshop_Redes_Neurais.ipynb) ([Mariana Barros](https://www.linkedin.com/in/mariana-barros-da-nobrega), [Weslley Santos](https://www.linkedin.com/in/weslley-cunha-santos))
 - [Segurança na Camada de Enlace](https://github.com/souzaroberto/iftech19) ([Eferson Nunes](https://www.linkedin.com/in/eferson-nunes-a00676171/), [Roberto Souza](https://www.linkedin.com/in/robertosouza/))
 - [Snake com Python e Pygame](https://github.com/AlvesItalo/snake) ([Felipe Galdino](https://www.linkedin.com/in/felipe-sousa-1ba813197/), [Ítalo Alves](https://www.linkedin.com/in/%C3%ADtalo-a-alves-9b654b193/), [Micael Pinheiro](https://www.linkedin.com/in/micaelps/))
