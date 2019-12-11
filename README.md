@@ -23,7 +23,7 @@
 - [Segurança na Camada de Enlace](https://github.com/souzaroberto/iftech19) ([Eferson Nunes](https://www.linkedin.com/in/eferson-nunes-a00676171/), [Roberto Souza](https://www.linkedin.com/in/robertosouza/))
 - [Snake com Python e Pygame](https://github.com/AlvesItalo/snake) ([Felipe Galdino](https://www.linkedin.com/in/felipe-sousa-1ba813197/), [Ítalo Alves](https://www.linkedin.com/in/%C3%ADtalo-a-alves-9b654b193/), [Micael Pinheiro](https://www.linkedin.com/in/micaelps/))
 - [Spring + Angular: a stack de desenvolvimento usada no GPES](https://github.com/MaxNobrega/iftech2019-gpes) ([Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [Helder Rangel](https://www.linkedin.com/in/helder-rangel-11a76015), [Max Nóbrega](https://www.linkedin.com/in/max-nóbrega-a50855188/))
-- Técnicas de Programação e Estruturas Avançadas em Python ([Calebe Oliveira](https://www.linkedin.com/in/calebe-oliveira-de-figueirêdo-90162515b/), [Kerven Albuquerque](https://www.linkedin.com/in/kerven-albuquerque/))
+- [Técnicas de Programação e Estruturas Avançadas em Python](https://github.com/calebeof/TecnicasEstruturasAvancadas) ([Calebe Oliveira](https://www.linkedin.com/in/calebe-oliveira-de-figueirêdo-90162515b/), [Kerven Albuquerque](https://www.linkedin.com/in/kerven-albuquerque/))
 
 ## [2018](http://even3.com.br/iftech2018/)
 
