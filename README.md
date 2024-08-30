@@ -1,5 +1,7 @@
 # talks-iftech
 
+## [2024](http://even3.com.br/iftech2024/)
+
 ## [2019](http://even3.com.br/iftech19/)
 
 - [API RESTful Node.js + PostgreSQL](https://github.com/guigomes94/minicurso-node-postgres) ([Danilo Marques](https://www.linkedin.com/in/danilo-marques-de-oliveira-14b25b136/), [Guilherme Gomes](https://www.linkedin.com/in/guilherme-gomes-3a1a57185/))
