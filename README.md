@@ -1,6 +1,7 @@
 # talks-iftech
 
 ## [2024](http://even3.com.br/iftech2024/)
+- [Introdução a Testes Unitários com Vue e Vitest](https://github.com/diogocardosoifpb/testes-unitarios-vue) ([Diogo Cardoso](https://www.linkedin.com/in/digocardoso/), [Ronaldo Filho](https://www.linkedin.com/in/ronaldo-filho-1515a918b/))
 
 ## [2019](http://even3.com.br/iftech19/)
 
