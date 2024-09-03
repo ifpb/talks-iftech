@@ -4,7 +4,7 @@
 
 - [Flutter 101: Primeiros passos com o framework](https://github.com/Samuel-MN0211/Curso_flutter) ([Lucas Palmeira](https://www.linkedin.com/in/lucas-nobrega-775660242/), [Samuel Merson](https://www.linkedin.com/in/samuelmersonf/))
 - [Introdução a Testes Unitários com Vue e Vitest](https://github.com/diogocardosoifpb/testes-unitarios-vue) ([Diogo Cardoso](https://www.linkedin.com/in/digocardoso/), [Ronaldo Filho](https://www.linkedin.com/in/ronaldo-filho-1515a918b/))
-- [Utilizando o App Inventor como forma de Ensino a Programação](https://github.com/targinofelipe1/curso-app-inventor) ([Felipe Targino](https://www.linkedin.com/in/felipe-targino/))
+- [Utilizando o App Inventor como forma de Ensino a Programação](https://github.com/targinofelipe1/iftech-curso-app-inventor) ([Felipe Targino](https://www.linkedin.com/in/felipe-targino/))
 
 
 ## [2019](http://even3.com.br/iftech19/)
