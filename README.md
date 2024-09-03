@@ -6,7 +6,6 @@
 - [Introdução a Testes Unitários com Vue e Vitest](https://github.com/diogocardosoifpb/testes-unitarios-vue) ([Diogo Cardoso](https://www.linkedin.com/in/digocardoso/), [Ronaldo Filho](https://www.linkedin.com/in/ronaldo-filho-1515a918b/))
 - [Utilizando o App Inventor como forma de Ensino a Programação](https://github.com/targinofelipe1/iftech-curso-app-inventor) ([Felipe Targino](https://www.linkedin.com/in/felipe-targino/))
 
-
 ## [2019](http://even3.com.br/iftech19/)
 
 - [API RESTful Node.js + PostgreSQL](https://github.com/guigomes94/minicurso-node-postgres) ([Danilo Marques](https://www.linkedin.com/in/danilo-marques-de-oliveira-14b25b136/), [Guilherme Gomes](https://www.linkedin.com/in/guilherme-gomes-3a1a57185/))
