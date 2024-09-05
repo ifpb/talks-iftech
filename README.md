@@ -2,6 +2,7 @@
 
 ## [2024](http://even3.com.br/iftech2024/)
 
+- [Curso Noções Básicas de Git na Prática](https://bald-quicksand-e2e.notion.site/Curso-No-es-B-sicas-de-Git-na-Pr-tica-a4a5b88d82d0497697b043b95777e7d2) ([Pablo Estrela](https://www.linkedin.com/in/pablo-estrela/), [Yago César](https://www.linkedin.com/in/yago-c%C3%A9sar/))
 - [Flutter 101: Primeiros passos com o framework](https://github.com/Samuel-MN0211/Curso_flutter) ([Lucas Palmeira](https://www.linkedin.com/in/lucas-nobrega-775660242/), [Samuel Merson](https://www.linkedin.com/in/samuelmersonf/))
 - [Introdução a Testes Unitários com Vue e Vitest](https://github.com/diogocardosoifpb/testes-unitarios-vue) ([Diogo Cardoso](https://www.linkedin.com/in/digocardoso/), [Ronaldo Filho](https://www.linkedin.com/in/ronaldo-filho-1515a918b/))
 - [Utilizando o App Inventor como forma de Ensino a Programação](https://github.com/targinofelipe1/iftech-curso-app-inventor) ([Felipe Targino](https://www.linkedin.com/in/felipe-targino/))
