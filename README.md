@@ -2,15 +2,17 @@
 
 ## [2024](http://even3.com.br/iftech2024/)
 
-<!-- - [Análise, Modelagem e Especificações de Testes Funcionais]() (Alic Andrade, Ian Mendonça, Jessye Pereira, Renato Melo) -->
+<!-- - [Análise, Modelagem e Especificações de Testes Funcionais]() ([Alic Andrade](https://www.linkedin.com/in/alicvictor), [Ian Mendonça](
+https://br.linkedin.com/in/ian-ribeiro-de-mendonca), [Jessye Pereira](https://www.linkedin.com/in/jessyepereira), [Renato Melo](
+https://www.linkedin.com/in/renato-b-melo/)) -->
 - [Curso Noções Básicas de Git na Prática](https://bald-quicksand-e2e.notion.site/Curso-No-es-B-sicas-de-Git-na-Pr-tica-a4a5b88d82d0497697b043b95777e7d2) ([Pablo Estrela](https://www.linkedin.com/in/pablo-estrela/), [Yago César](https://www.linkedin.com/in/yago-c%C3%A9sar/))
 - [Flutter 101: Primeiros passos com o framework](https://github.com/Samuel-MN0211/Curso_flutter) ([Lucas Palmeira](https://www.linkedin.com/in/lucas-nobrega-775660242/), [Samuel Merson](https://www.linkedin.com/in/samuelmersonf/))
-<!-- - [Fundamentos de Redes na AWS]() (José Ferreira, Ricardo Melo) -->
+<!-- - [Fundamentos de Redes na AWS]() ([José Ferreira](http://www.linkedin.com/in/josemartiniano), [Ricardo Melo](https://www.linkedin.com/in/ricardo-cisneiros/)) -->
 - [Git e Github: guia básico de sobrevivência](https://github.com/leticiazlopes/guia-basico-git) ([Leticia Lopes](https://www.linkedin.com/in/leticiazlopes/), [Suetone Carneiro](https://www.linkedin.com/in/suetone-carneiro/))
 - [Guia Docker para iniciantes](https://github.com/julioestrela96/Minicurso-Docker) ([José Roldão](https://www.linkedin.com/in/jose-roldao/))
-<!-- - [Machine learning e API com Python: Utilizando algoritmo de regressão linear para previsão de dados.]() (Felipe Cavalcante) -->
+<!-- - [Machine learning e API com Python: Utilizando algoritmo de regressão linear para previsão de dados.]() ([Felipe Cavalcante](https://linkedin.com/in/felipedebritoliracavalcante/)) -->
 - [Introdução a Testes Unitários com Vue e Vitest](https://github.com/diogocardosoifpb/testes-unitarios-vue) ([Diogo Cardoso](https://www.linkedin.com/in/digocardoso/), [Ronaldo Filho](https://www.linkedin.com/in/ronaldo-filho-1515a918b/))
-<!-- - [ITIL - Sua importância no Gerenciamento de Serviços]() (Janifer Macena) -->
+<!-- - [ITIL - Sua importância no Gerenciamento de Serviços]() ([Janifer Macena](https://br.linkedin.com/in/janiffer-macena)) -->
 - [Utilizando o App Inventor como forma de Ensino a Programação](https://github.com/targinofelipe1/iftech-curso-app-inventor) ([Felipe Targino](https://www.linkedin.com/in/felipe-targino/))
 <!-- - [Vagrant para Gerenciamento de VMs]() (Guilherme Vieira) -->
 
