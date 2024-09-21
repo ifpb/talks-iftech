@@ -2,14 +2,20 @@
 
 ## [2024](http://even3.com.br/iftech2024/)
 
+<!-- - [Análise, Modelagem e Especificações de Testes Funcionais]() (Alic Andrade, Ian Mendonça, Jessye Pereira, Renato Melo) -->
 - [Curso Noções Básicas de Git na Prática](https://bald-quicksand-e2e.notion.site/Curso-No-es-B-sicas-de-Git-na-Pr-tica-a4a5b88d82d0497697b043b95777e7d2) ([Pablo Estrela](https://www.linkedin.com/in/pablo-estrela/), [Yago César](https://www.linkedin.com/in/yago-c%C3%A9sar/))
 - [Flutter 101: Primeiros passos com o framework](https://github.com/Samuel-MN0211/Curso_flutter) ([Lucas Palmeira](https://www.linkedin.com/in/lucas-nobrega-775660242/), [Samuel Merson](https://www.linkedin.com/in/samuelmersonf/))
+<!-- - [Fundamentos de Redes na AWS]() (José Ferreira, Ricardo Melo) -->
 - [Git e Github: guia básico de sobrevivência](https://github.com/leticiazlopes/guia-basico-git) ([Leticia Lopes](https://www.linkedin.com/in/leticiazlopes/), [Suetone Carneiro](https://www.linkedin.com/in/suetone-carneiro/))
 - [Guia Docker para iniciantes](https://github.com/julioestrela96/Minicurso-Docker) ([José Roldão](https://www.linkedin.com/in/jose-roldao/))
+<!-- - [Machine learning e API com Python: Utilizando algoritmo de regressão linear para previsão de dados.]() (Felipe Cavalcante) -->
 - [Introdução a Testes Unitários com Vue e Vitest](https://github.com/diogocardosoifpb/testes-unitarios-vue) ([Diogo Cardoso](https://www.linkedin.com/in/digocardoso/), [Ronaldo Filho](https://www.linkedin.com/in/ronaldo-filho-1515a918b/))
+<!-- - [ITIL - Sua importância no Gerenciamento de Serviços]() (Janifer Macena) -->
 - [Utilizando o App Inventor como forma de Ensino a Programação](https://github.com/targinofelipe1/iftech-curso-app-inventor) ([Felipe Targino](https://www.linkedin.com/in/felipe-targino/))
-  
-## [2019](http://even3.com.br/iftech19/)
+<!-- - [Vagrant para Gerenciamento de VMs]() (Guilherme Vieira) -->
+
+<!-- ## [2019](http://even3.com.br/iftech19/) -->
+## [2019](https://ifpb.github.io/iftech2019/)
 
 - [API RESTful Node.js + PostgreSQL](https://github.com/guigomes94/minicurso-node-postgres) ([Danilo Marques](https://www.linkedin.com/in/danilo-marques-de-oliveira-14b25b136/), [Guilherme Gomes](https://www.linkedin.com/in/guilherme-gomes-3a1a57185/))
 - [Automatizando Testes em Dispositivos Móveis](https://github.com/maluqueiroz/minicurso-testes) ([Kamila Porto](https://www.linkedin.com/in/kmlporto), [Maria Luísa Queiroz](https://www.linkedin.com/in/maria-lu%C3%ADsa-queiroz-de-brito-4b6424114/))
@@ -33,7 +39,8 @@
 - [Spring + Angular: a stack de desenvolvimento usada no GPES](https://github.com/MaxNobrega/iftech2019-gpes) ([Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [Helder Rangel](https://www.linkedin.com/in/helder-rangel-11a76015), [Max Nóbrega](https://www.linkedin.com/in/max-nóbrega-a50855188/))
 - [Técnicas de Programação e Estruturas Avançadas em Python](https://github.com/calebeof/TecnicasEstruturasAvancadas) ([Calebe Oliveira](https://www.linkedin.com/in/calebe-oliveira-de-figueirêdo-90162515b/), [Kerven Albuquerque](https://www.linkedin.com/in/kerven-albuquerque/))
 
-## [2018](http://even3.com.br/iftech2018/)
+<!-- ## [2018](http://even3.com.br/iftech2018/) -->
+## [2018](https://ifpb.github.io/iftech2018/)
 
 - [Git e Github](https://github.com/FabricioLiber/Git-e-Github) ([Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Kamila Porto](https://www.linkedin.com/in/kmlporto/))
 - [Kung Fu Pandas](https://github.com/elileal/kungfu_Pandas) ([Eliabe Leal](https://www.linkedin.com/in/eliabe-leal-9499a5162/), [Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/))
