@@ -2,9 +2,9 @@
 
 ## [2024](http://even3.com.br/iftech2024/)
 
-<!-- - [Análise, Modelagem e Especificações de Testes Funcionais]() ([Alic Andrade](https://www.linkedin.com/in/alicvictor), [Ian Mendonça](
+- [Análise, Modelagem e Especificações de Testes Funcionais](https://speakerdeck.com/ianribeiro/minicurso-qa) ([Alic Andrade](https://www.linkedin.com/in/alicvictor), [Ian Mendonça](
 https://br.linkedin.com/in/ian-ribeiro-de-mendonca), [Jessye Pereira](https://www.linkedin.com/in/jessyepereira), [Renato Melo](
-https://www.linkedin.com/in/renato-b-melo/)) -->
+https://www.linkedin.com/in/renato-b-melo/))
 - [Curso Noções Básicas de Git na Prática](https://bald-quicksand-e2e.notion.site/Curso-No-es-B-sicas-de-Git-na-Pr-tica-a4a5b88d82d0497697b043b95777e7d2) ([Pablo Estrela](https://www.linkedin.com/in/pablo-estrela/), [Yago César](https://www.linkedin.com/in/yago-c%C3%A9sar/))
 - [Flutter 101: Primeiros passos com o framework](https://github.com/Samuel-MN0211/Curso_flutter) ([Lucas Palmeira](https://www.linkedin.com/in/lucas-nobrega-775660242/), [Samuel Merson](https://www.linkedin.com/in/samuelmersonf/))
 <!-- - [Fundamentos de Redes na AWS]() ([José Ferreira](http://www.linkedin.com/in/josemartiniano), [Ricardo Melo](https://www.linkedin.com/in/ricardo-cisneiros/)) -->
