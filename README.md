@@ -1,5 +1,9 @@
 # talks-iftech
 
+## 2025
+
+- [Explorando LLMs com Python: Fundamentos e Uso da API ChatGPT](https://github.com/jose-galvao/IFTECH-2025) ([José Galvão](www.linkedin.com/in/josé-silvestre-da-silva-galvão))
+
 ## [2024](http://even3.com.br/iftech2024/)
 
 - [Análise, Modelagem e Especificações de Testes Funcionais](https://speakerdeck.com/ianribeiro/minicurso-qa) ([Alic Andrade](https://www.linkedin.com/in/alicvictor), [Ian Mendonça](
