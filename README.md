@@ -1,6 +1,6 @@
 # talks-iftech
 
-## 2025
+## [2025](https://www.even3.com.br/iftech2025-594428/)
 
 - [Explorando LLMs com Python: Fundamentos e Uso da API ChatGPT](https://github.com/jose-galvao/IFTECH-2025) ([José Galvão](www.linkedin.com/in/josé-silvestre-da-silva-galvão))
 
