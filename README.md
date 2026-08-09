@@ -4,6 +4,7 @@
 ## [2026](https://www.even3.com.br/iftech-2026-768290/)
 
 - [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](https://www.linkedin.com/in/ivalcleb-souza))
+- [Visão Computacional com Python!](https://github.com/ericfabricio7/visaocomputacional-iftech.git) ([Eric Fabrício](https://www.linkedin.com/in/eric-fabricio/))
 
 ## [2025](https://www.even3.com.br/iftech2025-594428/)
 
