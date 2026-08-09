@@ -3,7 +3,7 @@
 
 ## [2026](https://www.even3.com.br/iftech-2026-768290/)
 
-- [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](www.linkedin.com/in/ivalcleb-souza))
+- [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](https://www.linkedin.com/in/ivalcleb-souza))
 
 ## [2025](https://www.even3.com.br/iftech2025-594428/)
 
