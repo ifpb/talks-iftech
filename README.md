@@ -6,6 +6,9 @@
 - [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](https://www.linkedin.com/in/ivalcleb-souza))
 - [Visão Computacional com Python!](https://github.com/ericfabricio7/visaocomputacional-iftech.git) ([Eric Fabrício](https://www.linkedin.com/in/eric-fabricio/))
 - [Deploy em Nuvem: Do Código ao Servidor](https://github.com/ryan-morais-rm/iftech) ([Ryan Correia](https://www.linkedin.com/in/ryan-morais-correia/), [João Pedro](https://www.linkedin.com/in/joaopedro-maar/))
+- [Construindo um Hackbot com IA para Testes de Segurança em Aplicações Web
+](https://github.com/pad1ryoshi/hackbot-iftech) ([Rodrigo Padilha](https://www.linkedin.com/in/rodrigo-padi/), [Júlio Caio](https://www.linkedin.com/in/julio-caio-r-santos/))
+  
 
 ## [2025](https://www.even3.com.br/iftech2025-594428/)
 
