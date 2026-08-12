@@ -8,6 +8,7 @@
 - [Deploy em Nuvem: Do Código ao Servidor](https://github.com/ryan-morais-rm/iftech) ([Ryan Correia](https://www.linkedin.com/in/ryan-morais-correia/), [João Pedro](https://www.linkedin.com/in/joaopedro-maar/))
 - [Construindo um Hackbot com IA para Testes de Segurança em Aplicações Web
 ](https://github.com/pad1ryoshi/hackbot-iftech) ([Rodrigo Padilha](https://www.linkedin.com/in/rodrigo-padi/), [Júlio Caio](https://www.linkedin.com/in/julio-caio-r-santos/))
+- [Introdução a Testes Unitários](https://github.com/leticiazlopes/testes-unitarios-vue) ([Leticia Lopes](https://www.linkedin.com/in/leticiazlopes), [Laila Aquino](https://www.linkedin.com/in/laila-aquino))
   
 
 ## [2025](https://www.even3.com.br/iftech2025-594428/)
