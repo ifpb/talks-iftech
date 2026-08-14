@@ -3,6 +3,7 @@
 
 ## [2026](https://www.even3.com.br/iftech-2026-768290/)
 
+- [Como construir agentes de IA para iniciantes](https://github.com/pedro-sls/Como-construir-agentes-de-IA-para-iniciantes). ([Pedro Sales](https://www.linkedin.com/in/pedro-sls/))
 - [Como Traduzir Modelos de IA Para O Hardware De Rede? Um Roteiro Prático De Desenvolvimento De In-Network ML](https://github.com/icaruuuuuu/iftech-2026) ([Ícaro Machado](https://www.linkedin.com/in/%C3%ADcaro-machado-da-silva-1378742b5/),[Caio Luiz](https://www.linkedin.com/in/caio86/))
 - [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](https://www.linkedin.com/in/ivalcleb-souza))
 - [Visão Computacional com Python!](https://github.com/ericfabricio7/visaocomputacional-iftech.git) ([Eric Fabrício](https://www.linkedin.com/in/eric-fabricio/))
