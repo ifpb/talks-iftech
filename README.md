@@ -1,17 +1,15 @@
 # talks-iftech
 
-
 ## [2026](https://www.even3.com.br/iftech-2026-768290/)
 
-- [Como construir agentes de IA para iniciantes](https://github.com/pedro-sls/Como-construir-agentes-de-IA-para-iniciantes). ([Pedro Sales](https://www.linkedin.com/in/pedro-sls/))
+- [IA Generativa com Python - Construindo Assistentes Virtuais](https://github.com/Pedr04rthur/mini-curso). ([Pedro Arthur de Holanda Nery](https://www.linkedin.com/in/pedro-arthur-de-holanda-nery-5138212bb/))
 - [Como Traduzir Modelos de IA Para O Hardware De Rede? Um Roteiro Prático De Desenvolvimento De In-Network ML](https://github.com/icaruuuuuu/iftech-2026) ([Ícaro Machado](https://www.linkedin.com/in/%C3%ADcaro-machado-da-silva-1378742b5/),[Caio Luiz](https://www.linkedin.com/in/caio86/))
 - [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](https://www.linkedin.com/in/ivalcleb-souza))
 - [Visão Computacional com Python!](https://github.com/ericfabricio7/visaocomputacional-iftech.git) ([Eric Fabrício](https://www.linkedin.com/in/eric-fabricio/))
 - [Deploy em Nuvem: Do Código ao Servidor](https://github.com/ryan-morais-rm/iftech) ([Ryan Correia](https://www.linkedin.com/in/ryan-morais-correia/), [João Pedro](https://www.linkedin.com/in/joaopedro-maar/))
 - [Construindo um Hackbot com IA para Testes de Segurança em Aplicações Web
-](https://github.com/pad1ryoshi/hackbot-iftech) ([Rodrigo Padilha](https://www.linkedin.com/in/rodrigo-padi/), [Júlio Caio](https://www.linkedin.com/in/julio-caio-r-santos/))
+  ](https://github.com/pad1ryoshi/hackbot-iftech) ([Rodrigo Padilha](https://www.linkedin.com/in/rodrigo-padi/), [Júlio Caio](https://www.linkedin.com/in/julio-caio-r-santos/))
 - [Introdução a Testes Unitários](https://github.com/leticiazlopes/testes-unitarios-vue) ([Leticia Lopes](https://www.linkedin.com/in/leticiazlopes), [Laila Aquino](https://www.linkedin.com/in/laila-aquino))
-  
 
 ## [2025](https://www.even3.com.br/iftech2025-594428/)
 
@@ -19,9 +17,7 @@
 
 ## [2024](http://even3.com.br/iftech2024/)
 
-- [Análise, Modelagem e Especificações de Testes Funcionais](https://speakerdeck.com/ianribeiro/minicurso-qa) ([Alic Andrade](https://www.linkedin.com/in/alicvictor), [Ian Mendonça](
-https://br.linkedin.com/in/ian-ribeiro-de-mendonca), [Jessye Pereira](https://www.linkedin.com/in/jessyepereira), [Renato Melo](
-https://www.linkedin.com/in/renato-b-melo/))
+- [Análise, Modelagem e Especificações de Testes Funcionais](https://speakerdeck.com/ianribeiro/minicurso-qa) ([Alic Andrade](https://www.linkedin.com/in/alicvictor), [Ian Mendonça](https://br.linkedin.com/in/ian-ribeiro-de-mendonca), [Jessye Pereira](https://www.linkedin.com/in/jessyepereira), [Renato Melo](https://www.linkedin.com/in/renato-b-melo/))
 - [Curso Noções Básicas de Git na Prática](https://bald-quicksand-e2e.notion.site/Curso-No-es-B-sicas-de-Git-na-Pr-tica-a4a5b88d82d0497697b043b95777e7d2) ([Pablo Estrela](https://www.linkedin.com/in/pablo-estrela/), [Yago César](https://www.linkedin.com/in/yago-c%C3%A9sar/))
 - [Flutter 101: Primeiros passos com o framework](https://github.com/Samuel-MN0211/Curso_flutter) ([Lucas Palmeira](https://www.linkedin.com/in/lucas-nobrega-775660242/), [Samuel Merson](https://www.linkedin.com/in/samuelmersonf/))
 <!-- - [Fundamentos de Redes na AWS]() ([José Ferreira](http://www.linkedin.com/in/josemartiniano), [Ricardo Melo](https://www.linkedin.com/in/ricardo-cisneiros/)) -->
@@ -34,6 +30,7 @@ https://www.linkedin.com/in/renato-b-melo/))
 <!-- - [Vagrant para Gerenciamento de VMs]() (Guilherme Vieira) -->
 
 <!-- ## [2019](http://even3.com.br/iftech19/) -->
+
 ## [2019](https://ifpb.github.io/iftech2019/)
 
 - [API RESTful Node.js + PostgreSQL](https://github.com/guigomes94/minicurso-node-postgres) ([Danilo Marques](https://www.linkedin.com/in/danilo-marques-de-oliveira-14b25b136/), [Guilherme Gomes](https://www.linkedin.com/in/guilherme-gomes-3a1a57185/))
@@ -59,9 +56,9 @@ https://www.linkedin.com/in/renato-b-melo/))
 - [Técnicas de Programação e Estruturas Avançadas em Python](https://github.com/calebeof/TecnicasEstruturasAvancadas) ([Calebe Oliveira](https://www.linkedin.com/in/calebe-oliveira-de-figueirêdo-90162515b/), [Kerven Albuquerque](https://www.linkedin.com/in/kerven-albuquerque/))
 
 <!-- ## [2018](http://even3.com.br/iftech2018/) -->
+
 ## [2018](https://ifpb.github.io/iftech2018/)
 
 - [Git e Github](https://github.com/FabricioLiber/Git-e-Github) ([Fabrício Liberato](https://www.linkedin.com/in/fabricioliberato/), [John Oliver](https://www.linkedin.com/in/john-oliver-venâncio-de-andrade-944950aa/), [Kamila Porto](https://www.linkedin.com/in/kmlporto/))
 - [Kung Fu Pandas](https://github.com/elileal/kungfu_Pandas) ([Eliabe Leal](https://www.linkedin.com/in/eliabe-leal-9499a5162/), [Neil Prado](https://www.linkedin.com/in/neil-prado-49965a14a/))
 - [My kid Api com Django](https://rencesar.github.io/create-api-django-rest/) ([Renato César](https://www.linkedin.com/in/renatocesarlira/))
-
