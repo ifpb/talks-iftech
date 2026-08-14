@@ -2,14 +2,14 @@
 
 ## [2026](https://www.even3.com.br/iftech-2026-768290/)
 
-- [IA Generativa com Python - Construindo Assistentes Virtuais](https://github.com/Pedr04rthur/mini-curso). ([Pedro Arthur de Holanda Nery](https://www.linkedin.com/in/pedro-arthur-de-holanda-nery-5138212bb/))
+- [Como construir agentes de IA para iniciantes](https://github.com/pedro-sls/Como-construir-agentes-de-IA-para-iniciantes). ([Pedro Sales](https://www.linkedin.com/in/pedro-sls/))
 - [Como Traduzir Modelos de IA Para O Hardware De Rede? Um Roteiro Prático De Desenvolvimento De In-Network ML](https://github.com/icaruuuuuu/iftech-2026) ([Ícaro Machado](https://www.linkedin.com/in/%C3%ADcaro-machado-da-silva-1378742b5/),[Caio Luiz](https://www.linkedin.com/in/caio86/))
-- [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](https://www.linkedin.com/in/ivalcleb-souza))
-- [Visão Computacional com Python!](https://github.com/ericfabricio7/visaocomputacional-iftech.git) ([Eric Fabrício](https://www.linkedin.com/in/eric-fabricio/))
+- [Construindo um Hackbot com IA para Testes de Segurança em Aplicações Web](https://github.com/pad1ryoshi/hackbot-iftech) ([Rodrigo Padilha](https://www.linkedin.com/in/rodrigo-padi/), [Júlio Caio](https://www.linkedin.com/in/julio-caio-r-santos/))
 - [Deploy em Nuvem: Do Código ao Servidor](https://github.com/ryan-morais-rm/iftech) ([Ryan Correia](https://www.linkedin.com/in/ryan-morais-correia/), [João Pedro](https://www.linkedin.com/in/joaopedro-maar/))
-- [Construindo um Hackbot com IA para Testes de Segurança em Aplicações Web
-  ](https://github.com/pad1ryoshi/hackbot-iftech) ([Rodrigo Padilha](https://www.linkedin.com/in/rodrigo-padi/), [Júlio Caio](https://www.linkedin.com/in/julio-caio-r-santos/))
+- [Docker: Executando suas aplicações em qualquer lugar](https://github.com/lukilme/iftech-dockersim) ([Luis Kilmer](https://www.linkedin.com/in/luis-kilmer/), [Ivalcleb Souza](https://www.linkedin.com/in/ivalcleb-souza))
+- [IA Generativa com Python - Construindo Assistentes Virtuais](https://github.com/Pedr04rthur/mini-curso). ([Pedro Arthur de Holanda Nery](https://www.linkedin.com/in/pedro-arthur-de-holanda-nery-5138212bb/))
 - [Introdução a Testes Unitários](https://github.com/leticiazlopes/testes-unitarios-vue) ([Leticia Lopes](https://www.linkedin.com/in/leticiazlopes), [Laila Aquino](https://www.linkedin.com/in/laila-aquino))
+- [Visão Computacional com Python!](https://github.com/ericfabricio7/visaocomputacional-iftech.git) ([Eric Fabrício](https://www.linkedin.com/in/eric-fabricio/))
 
 ## [2025](https://www.even3.com.br/iftech2025-594428/)
 
